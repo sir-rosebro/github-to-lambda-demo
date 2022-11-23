@@ -5,3 +5,5 @@ def lambda_handler(event, context):
     df = pd.DataFrame(data=d)
     print(df)
     print('Done x1.5')
+    print('Done x1.5')
+    print('pull request merged')
